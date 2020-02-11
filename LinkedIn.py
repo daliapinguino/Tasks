@@ -13,7 +13,7 @@ def authorization(driver):
     driver.get(urlLinkedIn)
     driver.find_element_by_class_name('nav__button-secondary').click()
     driver.find_element_by_id('username').send_keys('daliapinguino21@gmail.com')
-    driver.find_element_by_id('password').send_keys('Gio21Vanni96')
+    driver.find_element_by_id('password').send_keys('**********')
     driver.find_element_by_class_name('btn__primary--large').click()
 
 def mining(driver):
