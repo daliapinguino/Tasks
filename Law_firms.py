@@ -60,16 +60,22 @@ for plc in Place_id:
     res = json.loads(r2.text)
 
     results2 = res.get('result')
-    # open_hours = results2.get('opening_hours')
+    
+
+    open_hours = results2.get('opening_hours')
+    if open_hours is None:
+        Opening_hours.append('None')
+    else:
+        Opening_hours.append(open_hours.get('weekday_text'))
 
     Phone.append(results2.get('international_phone_number'))
     Address.append(results2.get('formatted_address'))
-    # Opening_hours.append(open_hours.get('weekday_text'))
     Website.append(results2.get('website'))
     Rating.append(results2.get('rating'))
     Name2.append(results2.get('name'))
-
     print(url2)
+    
+
 
 
 
@@ -87,7 +93,7 @@ data = pd.DataFrame({
         'Address':Address,
         'Phone': Phone,
         'Website': Website,
-        # 'Opening hours': Opening_hours,
+        'Opening hours': Opening_hours,
         'Rating': Rating
 
 
