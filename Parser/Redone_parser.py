@@ -62,6 +62,7 @@ def mining_links(driver, first_link):
 
 def get_place_id(driver,each_links):
     Filtered_place_id=[]
+    Place_ides=[]
     for link in each_links:
         driver.get(link)
         time.sleep(4)
