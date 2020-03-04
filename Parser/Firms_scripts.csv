@@ -1,244 +1,273 @@
 ,Name,Google,Facebook,LinkedIn
-0,California Dental Group of Anaheim Hills,None,None,None
-1,California Dental Group of Orange,None,None,None
-2,California KiDDS Pediatric Dentistry,None,None,None
-3,Green California Dental Group,None,None,None
-4,California KiDDS Pediatric Dentistry,None,None,None
-5,California Dental Specialty Group,None,None,None
-6,McClellan Dental Clinic - VA Northern California Health Care System,None,None,None
-7,"California Happy Teeth Family Dentistry: Sumity Sharma, DDS",None,None,None
-8,Pacific Heights Dental,None,None,None
-9,California KiDDS Pediatric Dentistry,None,None,None
-10,Hospitality Dental & Orthodontics,None,None,None
-11,Healthy Smiles California: La Crescenta,None,None,None
-12,Sai Dental Care,None,None,None
-13,Thomas Dental Care,None,None,None
-14,Stars Dental,None,None,None
-15,The Super Dentists,None,None,None
-16,California Wave Dental Center Inc,None,None,None
-17,Meadows Dental Group,None,None,None
-18,Western Dental & Orthodontics,None,None,None
-19,San Clemente Dental Associates,None,None,None
-20,The Super Dentists,None,None,None
-21,Allure Dental Center Mountain View CA,None,None,None
-22,Apple Dental Center,None,None,None
-23,Merced Pediatric Dentistry - Marie Moran DDS,None,None,None
-24,LIBERTY Dental Plan of California,None,None,None
-25,Western Dental & Orthodontics,Yes,None,None
-26,Western Dental & Orthodontics,None,None,None
-27,Bright Now! Dental,Yes,None,None
-28,The Super Dentists,Yes,None,None
-29,The Super Dentists,Yes,None,None
-30,Murrieta Dental Group and Orthodontics,Yes,Yes,None
-31,The Super Dentists - Carmel Valley,None,None,None
-32,Western Dental & Orthodontics,Yes,None,None
-33,Livermore Dental Care: David Gibson DDS,Yes,Yes,None
-34,Western Dental & Orthodontics,Yes,Yes,None
-35,"Mark Luzania, DDS, Dentist in Reedley CA 93654",None,None,None
-36,Spreckels Park Dental,Yes,None,None
-37,"Maher Barsoum, DDS",Yes,Yes,None
-38,Apple Valley Dental,Yes,None,None
-39,St Joseph Family Dentistry,Yes,Yes,None
-40,Opaque Dental,Yes,Yes,None
-41,Western Dental & Orthodontics,Yes,None,None
-42,Western Dental & Orthodontics,Yes,Yes,None
-43,Owjl Dental Corporation,Yes,None,None
-44,"Dr. Masoud Fanaian, DDS",Yes,None,None
-45,Glenn Dental,None,None,None
-46,Escondido Family Dental Care & Specialty Center,Yes,None,None
-47,Mirelez Wellness Dental,Yes,Yes,None
-48,"Maher Barsoum, DDS",Yes,Yes,None
-49,Packwood Creek Dental Group,Yes,Yes,None
-50,Loma Vista Dental,Yes,Yes,None
-51,Western Dental & Orthodontics,Yes,Yes,None
-52,Access Dental,Yes,Yes,None
-53,Western Dental & Orthodontics,Yes,Yes,None
-54,Western Dental & Orthodontics,Yes,Yes,None
-55,Omid Dental Office- South Gate Dentist,None,None,None
-56,Studio Dental,Yes,Yes,None
-57,Stunning Smiles of Lake Forest,Yes,None,None
-58,Clovis Family Dentistry,Yes,None,None
-59,UCSF Dental Center,Yes,None,None
-60,Sand Canyon Dental,None,None,None
-61,Puri Dentistry,Yes,Yes,None
-62,Brentwood Family Dental,Yes,Yes,None
-63,Dentists of Fontana,None,None,None
-64,Happy Teeth Dental,Yes,None,None
-65,StarWhite Dental,None,None,None
-66,Access Dental,None,Yes,None
+0,California Dental Network,None,None,None
+1,California Dental Group - Upland,None,None,None
+2,CALIFORNIA SHINE DENTAL,None,None,None
+3,California Dental Group of Riverside,None,None,None
+4,California Dental Group,None,None,None
+5,Glenn Dental,None,None,None
+6,California Dental Group of Glendale,None,None,None
+7,California Dental,None,None,None
+8,California Dentistry,None,None,None
+9,Dental Group of California,None,None,None
+10,Southern California Family Dentistry- Lake Forest,None,None,None
+11,California Dental Care and Orthodontics,None,None,None
+12,California Dental,None,None,None
+13,California Dental Group of South Anaheim,None,None,None
+14,"California Shine Dental - Dentist in San Jose, CA",None,None,None
+15,Southern California Family Dentistry,None,None,None
+16,"Tustin Dentist - Cosmetic Dentist Tustin - Tustin, CA 92780 - California Dental Group Tustin",None,None,None
+17,California Dental Group of Anaheim Hills,None,None,None
+18,California Dental Group of Orange,None,None,None
+19,California Dental Care: Shea Willy W DDS,None,None,None
+20,California KiDDS Pediatric Dentistry,None,None,None
+21,Green California Dental Group,None,None,None
+22,California KiDDS Pediatric Dentistry,None,None,None
+23,California Dental Group: Ramin Moravveji DDS,None,None,None
+24,California Dental Group of Brea,Yes,None,None
+25,California Dental Specialty Group,Yes,Yes,None
+26,"California Dental Care, Nahreen Imam, DDS, Inc.",None,None,None
+27,McClellan Dental Clinic - VA Northern California Health Care System,None,None,None
+28,"California Happy Teeth Family Dentistry: Sumity Sharma, DDS",Yes,Yes,None
+29,Lessenevitch Nicholas DDS,Yes,None,None
+30,Pacific Heights Dental,Yes,Yes,None
+31,California KiDDS Pediatric Dentistry,None,None,None
+32,Western Dental & Orthodontics,None,None,None
+33,Hospitality Dental & Orthodontics,Yes,None,None
+34,"Dr. Jeffrey B. Evans, DDS",None,Yes,None
+35,Smileworld Dental,None,None,None
+36,Western Dental & Orthodontics,None,None,None
+37,Western Dental & Orthodontics,None,None,None
+38,Thomas Dental Care,Yes,None,None
+39,Downtown Dental,Yes,None,None
+40,California Wave Dental Center Inc,None,None,None
+41,Western Dental & Orthodontics,None,None,None
+42,Milburn Dental,None,Yes,None
+43,Sequoia Dental Office,None,None,None
+44,San Clemente Dental Associates,Yes,None,None
+45,The Super Dentists,None,None,None
+46,The Super Dentists - Carmel Valley,Yes,Yes,None
+47,Bright Now! Dental,None,None,None
+48,The Super Dentists,Yes,None,None
+49,LIBERTY Dental Plan of California,Yes,None,None
+50,Livermore Dental Care: David Gibson DDS,Yes,None,None
+51,Western Dental & Orthodontics,Yes,None,None
+52,"Mark Luzania, DDS, Dentist in Reedley CA 93654",Yes,None,None
+53,Prestige Dental,Yes,Yes,None
+54,Comfort Dental,None,None,None
+55,Allure Dental Center Mountain View CA,Yes,Yes,None
+56,St Joseph Family Dentistry,Yes,None,None
+57,Western Dental & Orthodontics,None,None,None
+58,New Smile Dental,Yes,None,None
+59,Western Dental & Orthodontics,Yes,Yes,None
+60,Owjl Dental Corporation,Yes,Yes,None
+61,Western Dental & Orthodontics,None,None,None
+62,"Dr. Bert F. Engstrom, DMD",Yes,Yes,None
+63,Sonora Dentist,Yes,None,None
+64,Claremont Dental Institute,Yes,Yes,None
+65,Escondido Family Dental Care & Specialty Center,Yes,Yes,None
+66,Pacific Dental Care and Fastbraces®,Yes,Yes,None
 67,Western Dental & Orthodontics,Yes,None,None
-68,"Ronald L. Clark, DDS",Yes,Yes,None
-69,Access dental,None,None,None
-70,Claremont Dental Institute,Yes,Yes,None
-71,St Anthony Family Dentistry,Yes,Yes,None
-72,ABC Dental,Yes,Yes,None
-73,"Richard Healy, DDS - Family Dentistry",Yes,Yes,None
-74,Guillermo Donan DDS Fresno Dentist,Yes,Yes,None
-75,Western University College of Dental Medicine,Yes,Yes,None
-76,Family Dentistry,None,None,None
-77,Magleby Ben DDS,None,None,None
-78,"Dr. Warren Eakle, DDS",Yes,Yes,None
-79,Dr. Savitha Siddappa,Yes,Yes,None
-80,Family Dental Care,None,None,None
-81,Willow Dental Group,None,Yes,None
-82,All Smiles Family & Children Dentistry,Yes,Yes,None
-83,Reedley Family Dental,None,Yes,None
-84,Better Life Center for Implant and General Dentistry,Yes,None,None
-85,"Dr. Cristian I. Panoff, DDS",Yes,Yes,None
-86,Western Dental Center: Froh John DDS,Yes,Yes,None
-87,Bullard Dental Plaza,None,None,None
-88,Jack Ohanesian DDS,Yes,Yes,None
-89,Del Mar Dental Center: Gill Damanjit S DDS,Yes,None,None
-90,iTooth Dentistry,Yes,None,None
-91,Green Valley Dental,None,None,None
-92,Family Dentistry Clovis,Yes,Yes,None
-93,Andrew B. Cheong DDS - Adelaide Family Dentistry,Yes,None,None
-94,"Sweet Dentistry: Daniel R. Sweet, DDS",Yes,None,None
-95,Bullard Dental Plaza: Pouresmail Manouchehr DDS,None,None,None
-96,"Dentist Sanger - Dr. Harjit S. Mann, DDS",Yes,None,None
-97,Jason Rountree Family Dentistry,None,None,None
-98,"Selma Sunshine Dental: Mandeep Sandhu, DDS",Yes,None,None
-99,Selma Family Dental,Yes,None,None
-100,Paladin Dental,Yes,Yes,None
-101,Tiu Dennis L DDS,Yes,Yes,None
-102,Palmdale Children's Dental,None,None,None
-103,Western Dental,Yes,None,None
-104,UCLA School of Dentistry: Calhoun Colonya C DDS,Yes,None,None
-105,Smile Island Pediatric & Adult Dental Group,None,None,None
-106,Friendly Smiles Dental Group,None,None,None
-107,Affordable Dentures & Implants,Yes,None,None
-108,Visalia Care Dental,Yes,None,None
-109,All About Smiles Dental,None,None,None
-110,Link Dental Center,Yes,None,None
-111,Clayton Dental Group,Yes,None,None
-112,OnCall Dental - Fresno,Yes,None,None
-113,Covell Family Dental,Yes,None,None
-114,"El Portal Dental Group: Khang C. Nguyen, DDS",Yes,None,None
-115,Elmassian Joseph A DDS,Yes,Yes,None
-116,Hibbard Dental Care,Yes,None,None
-117,Ampla Dental,Yes,None,None
-118,Our Dental Care: James C. Ma D.D.S.,Yes,None,None
-119,"Smile Makeover Anoosheh Shahkarami, DDS",Yes,Yes,None
-120,Otto Alonzo DDS,None,None,None
-121,High Sierra Dental Center: Office Of Saleem M. Kiwan DDS,None,None,None
-122,Western Dental Dentistry: Lee Jing W DDS,Yes,Yes,None
-123,Western Dental Kids,Yes,None,None
-124,Clovis Crossing Dental Group and Orthodontics,None,Yes,None
-125,Santa Rosa Community Health -- Dental Campus,Yes,None,None
-126,St Therese Family Dental Care,Yes,None,None
-127,Karam U DDS,Yes,None,None
-128,Kingsburg Smile Center,Yes,None,None
-129,First Sierra Dental Care,Yes,None,None
-130,Robert Garabedian Inc,None,None,None
-131,Penner Barry J DDS,None,None,None
-132,Powell Pediatric Dentistry,Yes,Yes,None
-133,"Dr. Rodney J. Kellogg, DDS",Yes,Yes,None
-134,Loma Linda University School of Dentistry,Yes,Yes,None
-135,Dr Mengya Huang,Yes,None,None
-136,Campbell Dental Care and Aesthetics,None,None,None
-137,Fresno Pro Dental,Yes,Yes,None
-138,Fresno St Children's Dentistry and Orthodontics,None,None,None
-139,Sidhu Family Dentistry,None,None,None
-140,Hou Robert C DDS,None,None,None
-141,"Patrick Mazzei, D.D.S.",None,None,None
-142,"Southern California General & Cosmetic Dentistry: Ryan Fait, DDS",Yes,None,None
-143,Pure Dentistry: Dr. Darce Slate,Yes,None,None
-144,Starr Dental,Yes,Yes,None
-145,Brigham Kenneth DDS,None,None,None
-146,Northern California Dental - Lee Daniel Dr,Yes,None,None
-147,Montgomery Robert W DDS,Yes,None,None
-148,"Snoring, Sleep Apnea & Oral Appliance Dentist - Dr.Kary Karahadian",Yes,None,None
-149,Western Dental Center: He Yi DDS,Yes,Yes,None
-150,Gerald Pieroni Inc,None,None,None
-151,Western Dental Center: Vuppala Linga M DDS,Yes,None,None
-152,Primary Dental Care,Yes,None,None
-153,Smileland Dental,None,None,None
-154,Dr. Barnes Dental Associates,None,None,None
-155,Larsen Gary a DDS,Yes,None,None
-156,Emery & Emery DDS,Yes,Yes,None
-157,Perfect Smiles California,None,None,None
-158,Pacific Dental Clinic,Yes,Yes,None
-159,Posey Curt P DDS,None,Yes,None
-160,Ocean Dental Group,Yes,None,None
-161,Pries Dental Care | Innovating Dental Care for West San Jose,Yes,None,None
-162,California Valley Endodontics,None,None,None
-163,"Belle Smile / Dr. Anna K Choe, Dr. Ramy Zaifman, Dr. Judy H Chang",Yes,Yes,None
-164,Western Dental Center: Sanchez Jr Manuel G DDS,Yes,Yes,None
-165,Smileland Dental Tulare Children's Dentistry,None,None,None
-166,"Jack Ringer DDS, General & Cosmetic Dentistry",Yes,None,None
-167,Adventist Health Medical Office - Sanger,Yes,None,None
-168,Sac Dentist,Yes,None,None
-169,Aspen Dental,Yes,None,None
-170,Soares Mark DDS,Yes,Yes,None
-171,California Dental Specialty: Teramura Matt DDS,Yes,None,None
-172,Dr. David Suttie Dentistry For Children,Yes,None,None
-173,Pardo Dentistry,Yes,Yes,None
-174,Gotta Smile Dentistry,Yes,None,None
-175,"Air Dental Family, Emergency, Burbank Implants",Yes,Yes,None
-176,Professional Dental Care,Yes,None,None
-177,"Treva Diane Lee, DDS, MAGD FICOI",None,None,None
-178,Harry Albers DDS,Yes,None,None
-179,Vision Dental Montana,None,Yes,None
-180,Polished Dental,Yes,Yes,None
-181,Dimatera Maria L DDS,None,None,None
-182,Allred Dental,None,Yes,None
-183,The Glen Dental,None,None,None
-184,Polished Dental,None,None,None
-185,"Park West Dental Group- Quan Ma DMD,Thomas Bierman DDS, Stephen Tornay DDS",None,None,None
-186,"Comprehensive, Cosmetic & Implant Dentistry: Adriana Barrera, DDS",Yes,None,None
-187,"Shawn P. Rusk, DDS",Yes,None,None
-188,Wilshire Smile Studio,None,None,None
-189,Bright Now! Dental,None,None,None
-190,"Dr. Evangeline Amores, DDS",Yes,None,None
-191,Gale Ranch Pediatrics,Yes,None,None
-192,"Westlake Village Dental Health: Mike Choi, DDS",Yes,None,None
-193,ADVANCED FAMILY DENTISTRY,Yes,Yes,None
-194,"Los Angeles Dental Arts: Theodore Burnett, DDS",Yes,None,None
-195,"Willow Glen Dentistry: John Pisacane, DMD",Yes,None,None
-196,"Oral Care Dentistry: Parnaz Aurasteh, DDS",Yes,None,None
-197,"Dr. Kourosh Maddahi, DDS",Yes,None,None
-198,Agoura Dental,Yes,None,None
-199,Dentists of South Pasadena,Yes,None,None
-200,Unique Orthodontics,None,None,None
-201,Kawano Kelvin DDS,Yes,Yes,None
-202,Bay Dental Center,Yes,Yes,None
-203,The Dental Dimensions - Implant Dentist,Yes,None,None
-204,The Dental Dimensions - All on 4 Dental Implants,Yes,None,None
-205,Mann H S DDS,Yes,Yes,None
-206,"Matthew J. Malan, D.D.S.",Yes,Yes,None
-207,Gorgeous Smile Dental - Newark Office,Yes,None,None
-208,Dr. Bostani's Advanced Dental,None,None,None
-209,Smile Guru,Yes,None,None
-210,Victorian Dental Group,Yes,None,None
-211,California Dental Society of Anesthesiology,Yes,None,None
-212,Hurst Thomas L DDS,Yes,None,None
-213,New Dental Images,None,None,None
-214,"Pankaj R. Narkhede, DDS, MDS, Honored Fellow AAID",Yes,None,None
-215,Prism Dental Group - Savitha Siddappa DMD AEGD MS,Yes,None,None
-216,"Steven C. Kindy, DDS",Yes,None,None
-217,Santa Cruz Dental Group: Robinson Richard N DDS,Yes,None,None
-218,Waterford Pediatrics & Orthodontics,Yes,None,None
-219,First Dental Health,None,None,None
-220,Friendly Smiles Dental Group: Tang Yat Yeung DDS,None,None,None
-221,Sunset Center for Dental Excellence,Yes,None,None
-222,Schaffer Dental Excellence,Yes,None,None
-223,California Dental Network,None,None,None
-224,California Dental Group - Upland,Yes,None,None
-225,California Dental Group,Yes,Yes,None
-226,CALIFORNIA SHINE DENTAL,Yes,Yes,None
-227,California Dental Group of Riverside,None,None,None
-228,Glenn Dental,None,None,None
-229,California Dental Group of Glendale,Yes,None,None
-230,California Dentistry,Yes,Yes,None
-231,California Dental Care and Orthodontics,None,None,None
-232,Southern California Family Dentistry- Lake Forest,None,Yes,None
-233,California Dental,Yes,None,None
-234,Dental Group of California,None,None,None
-235,California Dental,None,None,None
-236,"Tustin Dentist - Cosmetic Dentist Tustin - Tustin, CA 92780 - California Dental Group Tustin",Yes,None,None
-237,California Dental Group of South Anaheim,None,None,None
-238,"California Shine Dental - Dentist in San Jose, CA",None,None,None
-239,Southern California Family Dentistry,Yes,None,None
-240,California Dental Care: Shea Willy W DDS,None,Yes,None
-241,California Dental Group: Ramin Moravveji DDS,Yes,Yes,None
-242,"California Dental Care, Nahreen Imam, DDS, Inc.",Yes,None,None
+68,Access Dental,Yes,Yes,None
+69,Alta Dental Care,Yes,Yes,None
+70,Merced Pediatric Dentistry - Marie Moran DDS,Yes,Yes,None
+71,Ideal Smile Dentistry,Yes,Yes,None
+72,Clovis Family Dentistry,Yes,None,None
+73,StarWhite Dental,None,None,None
+74,Access Dental,Yes,Yes,None
+75,Access dental,Yes,None,None
+76,Dentists of Fontana,Yes,Yes,None
+77,Parkside Dental Care,None,Yes,None
+78,Glenn Dental,Yes,None,None
+79,Dr. Joe Dentistry,Yes,Yes,None
+80,Guillermo Donan DDS Fresno Dentist,Yes,None,None
+81,"Curt P. Posey DDS, Inc.",Yes,Yes,None
+82,"Bellflower Dental Group - Dr. Arkady Tsibel, DDS",Yes,Yes,None
+83,Western Dental & Orthodontics,None,None,None
+84,Sierra Dental Group,Yes,None,None
+85,OnCall Dental - Fresno,Yes,None,None
+86,Family Dental Care,None,None,None
+87,All Smiles Family & Children Dentistry,Yes,None,None
+88,Santa Cruz Dental Group,Yes,Yes,None
+89,Better Life Center for Implant and General Dentistry,Yes,Yes,None
+90,Western Dental & Orthodontics,Yes,None,None
+91,"Dr. Cristian I. Panoff, DDS",None,None,None
+92,Cypress Dental of Petaluma,None,Yes,None
+93,Bullard Dental Plaza,None,None,None
+94,Pacific Dental Services Orange County Support Office,Yes,None,None
+95,Kahle Stephanie DDS,Yes,Yes,None
+96,Del Mar Dental Center: Gill Damanjit S DDS,Yes,Yes,None
+97,Fig Garden Dental Group,Yes,Yes,None
+98,Andrew B. Cheong DDS - Adelaide Family Dentistry,Yes,None,None
+99,Pacific Dental,Yes,None,None
+100,"Sweet Dentistry: Daniel R. Sweet, DDS",None,None,None
+101,Marquez Family Dentistry,Yes,Yes,None
+102,Deborah Finegold Inc,Yes,None,None
+103,Bullard Dental Plaza: Pouresmail Manouchehr DDS,None,None,None
+104,"Dentist Sanger - Dr. Harjit S. Mann, DDS",Yes,Yes,None
+105,Jason Rountree Family Dentistry,None,Yes,None
+106,"Selma Sunshine Dental: Mandeep Sandhu, DDS",Yes,None,None
+107,Tiu Dennis L DDS,Yes,None,None
+108,"Gerald M Schneider DDS, Nathan A Loeffler DDS",Yes,Yes,None
+109,SmileRite Family Dentistry,Yes,Yes,None
+110,A Dental Care 24Hrs,Yes,None,None
+111,Smile Island Pediatric & Adult Dental Group,None,None,None
+112,Fresno Dental Works,Yes,None,None
+113,"Michael T. Bodensteiner, DDS",None,None,None
+114,Hurst Dental Care,Yes,Yes,None
+115,"PhD Dental Pico Rivera Adults, Kids, Implants & Orthodontics",Yes,None,None
+116,Advanced Dental Care,Yes,None,None
+117,Angels Family Dental,Yes,None,None
+118,"Dr. Bruce Nakashian, DDS",None,None,None
+119,Golden Dental,Yes,None,None
+120,Our Dental Care: James C. Ma D.D.S.,Yes,None,None
+121,"Smile Makeover Anoosheh Shahkarami, DDS",Yes,None,None
+122,Otto Alonzo DDS,Yes,Yes,None
+123,High Sierra Dental Center: Office Of Saleem M. Kiwan DDS,None,None,None
+124,Western Dental Dentistry: Lee Jing W DDS,None,None,None
+125,Western Dental Kids,Yes,None,None
+126,Affordable Dentures & Implants,Yes,None,None
+127,Clovis Crossing Dental Group and Orthodontics,Yes,None,None
+128,St Therese Family Dental Care,Yes,None,None
+129,Karam U DDS,None,None,None
+130,Powell Pediatric Dentistry,Yes,Yes,None
+131,Loma Linda University School of Dentistry,Yes,None,None
+132,Havens Orthodontics Inc,Yes,None,None
+133,Fresno St Children's Dentistry and Orthodontics,None,None,None
+134,Pries Dental Care | Innovating Dental Care for West San Jose,None,None,None
+135,"Patrick Mazzei, D.D.S.",Yes,Yes,None
+136,Powell Pediatric Dentistry,Yes,Yes,None
+137,"Lindsey Feaster Scott, D.D.S.",Yes,Yes,None
+138,Medical Dental,Yes,Yes,None
+139,Northern California Dental - Lee Daniel Dr,None,None,None
+140,"Southern California General & Cosmetic Dentistry: Ryan Fait, DDS",None,None,None
+141,"Snoring, Sleep Apnea & Oral Appliance Dentist - Dr.Kary Karahadian",Yes,None,None
+142,Perfect Smiles California,None,None,None
+143,Western Dental Center: He Yi DDS,Yes,None,None
+144,Smileland Dental,Yes,None,None
+145,Dr. Barnes Dental Associates,None,None,None
+146,Ready 2 Smile Dental Group,None,None,None
+147,Aspen Dental,Yes,None,None
+148,Larsen Gary a DDS,None,None,None
+149,Pacific Dental Clinic,Yes,None,None
+150,Aspen Dental,Yes,None,None
+151,"Jack Ringer DDS, General & Cosmetic Dentistry",Yes,Yes,None
+152,Smileland Dental Tulare Children's Dentistry,Yes,Yes,None
+153,"TLC Dental Care: Tamara L. Clauson, DDS",Yes,None,None
+154,Adventist Health Medical Office - Sanger,Yes,None,None
+155,Ebrahimian Integrative Dentistry,None,None,None
+156,"Air Dental Family, Emergency, Burbank Implants",Yes,Yes,None
+157,Soares Mark DDS,None,None,None
+158,California Dental Specialty: Teramura Matt DDS,None,None,None
+159,Medicare Advisors Fullerton,Yes,Yes,None
+160,Primary Dental Care,Yes,None,None
+161,RB Family & Cosmetic Dentistry,Yes,None,None
+162,"Treva Diane Lee, DDS, MAGD FICOI",Yes,Yes,None
+163,La Jolla Dental,Yes,Yes,None
+164,Center for Implant Dentistry,Yes,None,None
+165,"Orange Hill Dental Group, Joseph Sabet DDS",Yes,Yes,None
+166,"Park West Dental Group- Quan Ma DMD,Thomas Bierman DDS, Stephen Tornay DDS",Yes,None,None
+167,"Shawn P. Rusk, DDS",None,None,None
+168,Miller Savant Dental | Sunnyvale Dentist,None,Yes,None
+169,Wilshire Smile Studio,Yes,None,None
+170,First Family Dental,None,Yes,None
+171,"Comprehensive, Cosmetic & Implant Dentistry: Adriana Barrera, DDS",None,None,None
+172,Vineyard Dental Group,None,None,None
+173,Center Point Dental Group,Yes,None,None
+174,"Westlake Village Dental Health: Mike Choi, DDS",None,None,None
+175,ADVANCED FAMILY DENTISTRY,Yes,None,None
+176,Kawano Family Dental,None,Yes,None
+177,Remolina Dental Inc,Yes,None,None
+178,"Oral Care Dentistry: Parnaz Aurasteh, DDS",None,None,None
+179,Aaronian Rick S DDS,Yes,None,None
+180,Dentists of South Pasadena,Yes,None,None
+181,Insight Dentistry,None,None,None
+182,Unique Orthodontics,Yes,None,None
+183,"El Dorado Hills Cosmetic, Implant & Family Dentistry",Yes,None,None
+184,Gill Family Dentistry - Affordable Dental Implants Treatment,Yes,None,None
+185,Gale Ranch Family Dental,None,None,None
+186,Fresno Dental Professionals,None,None,None
+187,AZ Dental - Monterey,None,None,None
+188,"Dr. Hamid R. Nasr, DDS",Yes,Yes,None
+189,Mann H S DDS,Yes,None,None
+190,"All Kids Dentistry, Laura Greenwald DDS",Yes,None,None
+191,"PhD Dental Los Angeles Kids, Implants & Orthodontics",Yes,None,None
+192,Signature Smiles Clovis,None,None,None
+193,"Jeffrey C. Elliott, DDS",Yes,None,None
+194,Creekside Dentistry,Yes,None,None
+195,Capitol Square Dental Care,None,None,None
+196,Victorian Dental Group,Yes,None,None
+197,California Dental Society of Anesthesiology,Yes,None,None
+198,Ala Din DDS,Yes,Yes,None
+199,Hurst Thomas L DDS,None,None,None
+200,New Dental Images,None,None,None
+201,"Pankaj R. Narkhede, DDS, MDS, Honored Fellow AAID",Yes,None,None
+202,"Dr. Hibret Hailu Benjamin, D.D.S. - Marina Tooth Fairy Dental",Yes,None,None
+203,"Steven C. Kindy, DDS",None,None,None
+204,Santa Cruz Dental Group: Robinson Richard N DDS,Yes,None,None
+205,Dinuba Orthodontics,None,None,None
+206,Quadalupe Dental Center,Yes,Yes,None
+207,"PhD Dental Inglewood - Adults, Kids, Implants & Orthodontics",None,None,None
+208,"Allure Dental Center: Trinh Ngoc Lee, DDS",Yes,None,None
+209,Graton Dental Group,Yes,Yes,None
+210,Bellflower Dental Group: Pike Robert DDS,Yes,None,None
+211,SoCal Smiles,Yes,None,None
+212,"Tarzana Smiles - Garo Ourfalian, DDS",None,None,None
+213,Clovis Gentle Dental Care,None,None,None
+214,Reedley Family Dental,Yes,None,None
+215,Smile Visalia,None,None,None
+216,Burrell Earl R DDS,None,None,None
+217,First Sierra Dental | Steven Wisener DDS,Yes,Yes,None
+218,"Dr. Herman Leung, DDS",Yes,None,None
+219,Marketplace Smiles Dentistry and Orthodontics,Yes,None,None
+220,"meet dentist, dr. abhishek joshi your mobile dentist in corona, ca",None,Yes,None
+221,Prism Dental Group - Savitha Siddappa DMD AEGD MS,Yes,None,None
+222,"Golden Dental, Roland Markarian DMD",Yes,None,None
+223,California Oral Surgery & Dental Implant Center,Yes,Yes,None
+224,McBride Dental,Yes,Yes,None
+225,Western Dental & Orthodontics,Yes,None,None
+226,"Dr. James Scott, DDS",Yes,None,None
+227,Manhattan Beach Dental Solutions,Yes,None,None
+228,"Shyam Krishnan, DDS",None,None,None
+229,Capitol Square Dental Care: Watanabe Gerald S DDS,Yes,None,None
+230,"Thomas Barrington, DDS",Yes,Yes,None
+231,Bellflower Dental Group,Yes,Yes,None
+232,"Dove Canyon Dental- Scott E. Bianchi, D.D.S.",Yes,None,None
+233,Forever Smiles Pediatric Dentistry,None,None,None
+234,Dr Dean Bu,None,None,None
+235,J K Dental Clinic,None,None,None
+236,"Steven, E Voelker DDS",Yes,None,None
+237,"J. Foster Weems, DDS",Yes,None,None
+238,Luis Castillo Professional Dental Corp.,Yes,Yes,None
+239,Family HealthCare Network - Visalia School (Medical & Dental),None,None,None
+240,"Kingsburg Smile Center: B. Fareid, DDS",None,None,None
+241,Family HealthCare Network - Tulare (Medical & Dental),Yes,Yes,None
+242,CedarNorth Dental,Yes,None,None
+243,Bajwa Mohan DDS,Yes,Yes,None
+244,Martin S Nahigian DDS,Yes,None,None
+245,Golden Valley Smiles,None,None,None
+246,Tarzana Smile Center,None,None,None
+247,St Therese Family Dental Care: Conde-Nadores Nimfa DDS,None,Yes,None
+248,Aspen Dental,Yes,Yes,None
+249,Sacramento Family & Implant Dentistry,Yes,None,None
+250,Coast Dental,Yes,Yes,None
+251,Delta Dental of California,None,None,None
+252,Journal of the California Dental Association,Yes,None,None
+253,Delta Dental of California,None,None,None
+254,Northern California Dental Society,Yes,None,None
+255,TDIC - The Dentists Insurance Company,Yes,Yes,None
+256,Delta Dental Plan of Ca,None,None,None
+257,Continuing Dental Education,Yes,None,None
+258,University of Southern California School of Dentistry,Yes,None,None
+259,Dentist Carson CA,Yes,Yes,None
+260,"Randall W Halliday, DDS",Yes,None,None
+261,David Garate DDS,Yes,Yes,None
+262,UCLA School of Dentistry,Yes,None,None
+263,CDA Presents,Yes,None,None
+264,"Daniel S. Miller, DDS, Inc.",None,None,None
+265,California Physicians Insurance Corporation,Yes,Yes,None
+266,UCSF School of Dentistry,None,None,None
+267,Dental Examiners Board,None,None,None
+268,"Randall W. Halliday, DDS",Yes,None,None
+269,Orange County Dental Society,Yes,None,None
+270,"Dr. Hanneke R. Finones, DDS",None,None,None
+271,"Dr. Phil J. RA, DDS",Yes,None,None
