@@ -7,7 +7,8 @@ from csv import writer
 import os
 import datetime
 
-time = '2020/03/22'
+print('Please, enter the date in format (e.g.2020/03/20): ')
+time = input()
 
 wb = xlrd.open_workbook('covid-data-template.xlsx')
 sheet_name = wb.sheet_names()
@@ -15,26 +16,21 @@ for ii in sheet_name:
     sh = wb.sheet_by_name(ii)
 
 for li in sheet_name:
+    counter = 0
     data_xlsx = pd.read_excel('covid-data-template.xlsx', li)
     data_xlsx.to_csv(li + " covid-data-template.csv", encoding='utf-8')
 
     df = pd.read_csv(li + " covid-data-template.csv")
     df['Date'] = time
-    df.to_csv(li+' covid-data-template.csv')
-
-
+    df.to_csv(li + ' covid-data-template.csv')
 
     df['State'] = li
     df.to_csv(li + " covid-data-template.csv", index=False)
-    df['Batch'] = +1
+
+    df['Batch'] = counter + 1
     df.to_csv(li + " covid-data-template.csv", index=False)
 
     df = pd.read_csv(li + ' covid-data-template.csv')['Batch']
-
-
-
-
-
 
     con = sqlite3.connect(li + " Sql.db")
     cur = con.cursor()
@@ -48,7 +44,8 @@ for li in sheet_name:
         dr = csv.DictReader(fin)  # comma is default delimiter
         to_db = [(i['State'], i['County'], i['Cases'], i['Deaths'], i['Source'], i['Date'], i['Batch']) for i in dr]
 
-    cur.executemany("INSERT INTO t (State, County, Cases, Deaths, Source, Date, Batch) VALUES (?, ?, ?, ?, ?, ?, ?);", to_db)
+    cur.executemany("INSERT INTO t (State, County, Cases, Deaths, Source, Date, Batch) VALUES (?, ?, ?, ?, ?, ?, ?);",
+                    to_db)
     con.commit()
 
     con.execute('SELECT * FROM t')
