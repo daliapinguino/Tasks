@@ -16,7 +16,6 @@ for ii in sheet_name:
     sh = wb.sheet_by_name(ii)
 
 for li in sheet_name:
-    counter = 0
     data_xlsx = pd.read_excel('covid-data-template.xlsx', li)
     data_xlsx.to_csv(li + " covid-data-template.csv", encoding='utf-8')
 
@@ -27,7 +26,7 @@ for li in sheet_name:
     df['State'] = li
     df.to_csv(li + " covid-data-template.csv", index=False)
 
-    df['Batch'] = counter + 1
+    df['Batch'] = + 1
     df.to_csv(li + " covid-data-template.csv", index=False)
 
     df = pd.read_csv(li + ' covid-data-template.csv')['Batch']
