@@ -10,6 +10,8 @@ import datetime
 print('Please, enter the date in format (e.g.2020/03/20): ')
 time = input()
 
+a=[]
+
 wb = xlrd.open_workbook('covid-data-template.xlsx')
 sheet_name = wb.sheet_names()
 for ii in sheet_name:
@@ -26,12 +28,14 @@ for li in sheet_name:
     df['State'] = li
     df.to_csv(li + " covid-data-template.csv", index=False)
 
-    df['Batch'] = + 1
+    df['Batch'] = +1
     df.to_csv(li + " covid-data-template.csv", index=False)
 
     df = pd.read_csv(li + ' covid-data-template.csv')['Batch']
 
     con = sqlite3.connect(li + " Sql.db")
+    a.append(li + ' Sql.db')
+
     cur = con.cursor()
     cur.execute("CREATE TABLE t (State, County, Cases, Deaths, Source, Date, Batch);")
     # use your column names here
@@ -52,3 +56,14 @@ for li in sheet_name:
         print(row)
     con.close()
     os.remove(li + ' covid-data-template.csv')
+
+def Bbatch():
+    for data_base in a:
+        con = sqlite3.connect(data_base)
+        c = con.cursor()
+
+        c.execute("UPDATE t SET Batch =Batch+1")
+        con.commit()
+
+Bbatch()
+
