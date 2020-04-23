@@ -1,0 +1,85 @@
+,State,County,Cases,Deaths,Date
+0,Michigan,Alcona,3, ,2020-04-22
+1,Michigan,Allegan,47, ,2020-04-22
+2,Michigan,Alpena,35,1,2020-04-22
+3,Michigan,Antrim,9, ,2020-04-22
+4,Michigan,Arenac,13,1,2020-04-22
+5,Michigan,Barry,26,1,2020-04-22
+6,Michigan,Bay,86,2,2020-04-22
+7,Michigan,Benzie,4, ,2020-04-22
+8,Michigan,Berrien,170,10,2020-04-22
+9,Michigan,Branch,43,2,2020-04-22
+10,Michigan,Calhoun,156,5,2020-04-22
+11,Michigan,Cass,22,1,2020-04-22
+12,Michigan,Charlevoix,12,1,2020-04-22
+13,Michigan,Cheboygan,14,1,2020-04-22
+14,Michigan,Chippewa,1, ,2020-04-22
+15,Michigan,Clare,9,1,2020-04-22
+16,Michigan,Clinton,105,7,2020-04-22
+17,Michigan,Crawford,30,2,2020-04-22
+18,Michigan,Delta,12,2,2020-04-22
+19,Michigan,Detroit City,7904,728,2020-04-22
+20,Michigan,Dickinson,3,2,2020-04-22
+21,Michigan,Eaton,99,5,2020-04-22
+22,Michigan,Emmet,21,2,2020-04-22
+23,Michigan,Genesee,1298,131,2020-04-22
+24,Michigan,Gladwin,9,1,2020-04-22
+25,Michigan,Gogebic,4,1,2020-04-22
+26,Michigan,Grand Traverse,19,5,2020-04-22
+27,Michigan,Gratiot,8,1,2020-04-22
+28,Michigan,Hillsdale,94,11,2020-04-22
+29,Michigan,Houghton,2, ,2020-04-22
+30,Michigan,Huron,9, ,2020-04-22
+31,Michigan,Ingham,335,6,2020-04-22
+32,Michigan,Ionia,26,2,2020-04-22
+33,Michigan,Iosco,15,2,2020-04-22
+34,Michigan,Isabella,53,7,2020-04-22
+35,Michigan,Jackson,280,12,2020-04-22
+36,Michigan,Kalamazoo,201,10,2020-04-22
+37,Michigan,Kalkaska,17,2,2020-04-22
+38,Michigan,Kent,626,25,2020-04-22
+39,Michigan,Lake,2, ,2020-04-22
+40,Michigan,Lapeer,148,22,2020-04-22
+41,Michigan,Leelanau,7, ,2020-04-22
+42,Michigan,Lenawee,71, ,2020-04-22
+43,Michigan,Livingston,301,11,2020-04-22
+44,Michigan,Luce,1, ,2020-04-22
+45,Michigan,Mackinac,4, ,2020-04-22
+46,Michigan,Macomb,4544,445,2020-04-22
+47,Michigan,Manistee,11, ,2020-04-22
+48,Michigan,Marquette,35,6,2020-04-22
+49,Michigan,Mason,4, ,2020-04-22
+50,Michigan,Mecosta,14,1,2020-04-22
+51,Michigan,Menominee,1, ,2020-04-22
+52,Michigan,Midland,48,3,2020-04-22
+53,Michigan,Missaukee,6,1,2020-04-22
+54,Michigan,Monroe,241,10,2020-04-22
+55,Michigan,Montcalm,26,1,2020-04-22
+56,Michigan,Montmorency,4, ,2020-04-22
+57,Michigan,Muskegon,160,10,2020-04-22
+58,Michigan,Newaygo,10, ,2020-04-22
+59,Michigan,Oakland,6306,506,2020-04-22
+60,Michigan,Oceana,4,1,2020-04-22
+61,Michigan,Ogemaw,6, ,2020-04-22
+62,Michigan,Osceola,8, ,2020-04-22
+63,Michigan,Oscoda,4, ,2020-04-22
+64,Michigan,Otsego,77,6,2020-04-22
+65,Michigan,Ottawa,129,7,2020-04-22
+66,Michigan,Presque Isle,6, ,2020-04-22
+67,Michigan,Roscommon,11, ,2020-04-22
+68,Michigan,Saginaw,433,32,2020-04-22
+69,Michigan,Sanilac,32,3,2020-04-22
+70,Michigan,Schoolcraft,3, ,2020-04-22
+71,Michigan,Shiawassee,121,3,2020-04-22
+72,Michigan,St Clair,259,15,2020-04-22
+73,Michigan,St Joseph,25,1,2020-04-22
+74,Michigan,Tuscola,63,11,2020-04-22
+75,Michigan,Van Buren,34,2,2020-04-22
+76,Michigan,Washtenaw,900,38,2020-04-22
+77,Michigan,Wayne,6351,550,2020-04-22
+78,Michigan,Wexford,7,1,2020-04-22
+79,Michigan,MDOC*,615,20,2020-04-22
+80,Michigan,FCI**,57, ,2020-04-22
+81,Michigan,Unknown,26,2,2020-04-22
+82,Michigan,Out of State,32,2,2020-04-22
+83,Michigan,Totals,32967,2700,2020-04-22
