@@ -4,7 +4,7 @@ import time
 import pandas as pd
 from selenium.webdriver.chrome.options import Options
 
-date_parsing = datetime.datetime.today().strftime('%Y-%M-%d')
+date_parsing = datetime.datetime.today().strftime('%Y-%m-%d')
 obj = []
 left_list = []
 text = []
