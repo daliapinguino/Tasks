@@ -9,7 +9,7 @@ from selenium.webdriver.chrome.options import Options
 import datetime
 import os
 
-date_parsing = datetime.datetime.today().strftime('%Y-%M-%d')
+date_parsing = datetime.datetime.today().strftime('%Y-%m-%d')
 link_date = datetime.datetime.today().strftime('%B-%d')
 pdf_date = datetime.datetime.today().strftime('%m-%d')
 now = datetime.datetime.now()
