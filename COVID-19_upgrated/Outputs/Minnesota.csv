@@ -1,0 +1,86 @@
+,State,County,Cases,Deaths,Date
+0,Minnesota,Aitkin,2,0,2020-05-09
+1,Minnesota,Anoka,518,29,2020-05-09
+2,Minnesota,Becker,25,0,2020-05-09
+3,Minnesota,Beltrami,6,0,2020-05-09
+4,Minnesota,Benton,87,2,2020-05-09
+5,Minnesota,Big Stone,2,0,2020-05-09
+6,Minnesota,Blue Earth,64,0,2020-05-09
+7,Minnesota,Brown,9,1,2020-05-09
+8,Minnesota,Carlton,64,0,2020-05-09
+9,Minnesota,Carver,78,1,2020-05-09
+10,Minnesota,Cass,8,0,2020-05-09
+11,Minnesota,Chippewa,5,0,2020-05-09
+12,Minnesota,Chisago,19,1,2020-05-09
+13,Minnesota,Clay,233,16,2020-05-09
+14,Minnesota,Clearwater,2,0,2020-05-09
+15,Minnesota,Cottonwood,45,0,2020-05-09
+16,Minnesota,Crow Wing,24,1,2020-05-09
+17,Minnesota,Dakota,408,15,2020-05-09
+18,Minnesota,Dodge,24,0,2020-05-09
+19,Minnesota,Douglas,15,0,2020-05-09
+20,Minnesota,Faribault,10,0,2020-05-09
+21,Minnesota,Fillmore,12,1,2020-05-09
+22,Minnesota,Freeborn,43,0,2020-05-09
+23,Minnesota,Goodhue,25,0,2020-05-09
+24,Minnesota,Grant,2,0,2020-05-09
+25,Minnesota,Hennepin,"3,379",374,2020-05-09
+26,Minnesota,Houston,2,0,2020-05-09
+27,Minnesota,Isanti,7,0,2020-05-09
+28,Minnesota,Itasca,25,0,2020-05-09
+29,Minnesota,Jackson,31,0,2020-05-09
+30,Minnesota,Kanabec,9,0,2020-05-09
+31,Minnesota,Kandiyohi,276,1,2020-05-09
+32,Minnesota,Kittson,1,0,2020-05-09
+33,Minnesota,Koochiching,1,0,2020-05-09
+34,Minnesota,Lac qui Parle,2,0,2020-05-09
+35,Minnesota,Lake,1,0,2020-05-09
+36,Minnesota,Le Sueur,28,0,2020-05-09
+37,Minnesota,Lincoln,3,0,2020-05-09
+38,Minnesota,Lyon,17,0,2020-05-09
+39,Minnesota,Mahnomen,2,1,2020-05-09
+40,Minnesota,Marshall,8,0,2020-05-09
+41,Minnesota,Martin,112,4,2020-05-09
+42,Minnesota,McLeod,8,0,2020-05-09
+43,Minnesota,Meeker,21,0,2020-05-09
+44,Minnesota,Mille Lacs,7,1,2020-05-09
+45,Minnesota,Morrison,13,0,2020-05-09
+46,Minnesota,Mower,42,0,2020-05-09
+47,Minnesota,Murray,27,0,2020-05-09
+48,Minnesota,Nicollet,21,2,2020-05-09
+49,Minnesota,Nobles,"1,230",2,2020-05-09
+50,Minnesota,Norman,9,0,2020-05-09
+51,Minnesota,Olmsted,363,9,2020-05-09
+52,Minnesota,Otter Tail,23,0,2020-05-09
+53,Minnesota,Pennington,1,0,2020-05-09
+54,Minnesota,Pine,69,0,2020-05-09
+55,Minnesota,Pipestone,7,0,2020-05-09
+56,Minnesota,Polk,48,1,2020-05-09
+57,Minnesota,Pope,5,0,2020-05-09
+58,Minnesota,Ramsey,875,43,2020-05-09
+59,Minnesota,Red Lake,1,0,2020-05-09
+60,Minnesota,Redwood,3,0,2020-05-09
+61,Minnesota,Renville,6,0,2020-05-09
+62,Minnesota,Rice,102,1,2020-05-09
+63,Minnesota,Rock,19,0,2020-05-09
+64,Minnesota,Roseau,1,0,2020-05-09
+65,Minnesota,Scott,129,1,2020-05-09
+66,Minnesota,Sherburne,107,1,2020-05-09
+67,Minnesota,Sibley,3,0,2020-05-09
+68,Minnesota,St. Louis,91,12,2020-05-09
+69,Minnesota,Stearns,"1,348",5,2020-05-09
+70,Minnesota,Steele,58,0,2020-05-09
+71,Minnesota,Stevens,1,0,2020-05-09
+72,Minnesota,Swift,3,0,2020-05-09
+73,Minnesota,Todd,33,0,2020-05-09
+74,Minnesota,Traverse,3,0,2020-05-09
+75,Minnesota,Wabasha,13,0,2020-05-09
+76,Minnesota,Wadena,4,0,2020-05-09
+77,Minnesota,Waseca,16,0,2020-05-09
+78,Minnesota,Washington,231,14,2020-05-09
+79,Minnesota,Watonwan,22,0,2020-05-09
+80,Minnesota,Wilkin,11,3,2020-05-09
+81,Minnesota,Winona,70,15,2020-05-09
+82,Minnesota,Wright,92,1,2020-05-09
+83,Minnesota,Yellow Medicine,3,0,2020-05-09
+84,Minnesota,Unknown/missing,17,0,2020-05-09
