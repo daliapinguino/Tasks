@@ -1,0 +1,86 @@
+,State,County,Cases,Deaths,Date
+0,Michigan,Alcona,4,1,2020-05-09
+1,Michigan,Allegan,130,2,2020-05-09
+2,Michigan,Alpena,86,8,2020-05-09
+3,Michigan,Antrim,10, ,2020-05-09
+4,Michigan,Arenac,27,1,2020-05-09
+5,Michigan,Baraga,1, ,2020-05-09
+6,Michigan,Barry,44,1,2020-05-09
+7,Michigan,Bay,185,9,2020-05-09
+8,Michigan,Benzie,4, ,2020-05-09
+9,Michigan,Berrien,376,22,2020-05-09
+10,Michigan,Branch,76,2,2020-05-09
+11,Michigan,Calhoun,254,17,2020-05-09
+12,Michigan,Cass,39,2,2020-05-09
+13,Michigan,Charlevoix,13,1,2020-05-09
+14,Michigan,Cheboygan,19,1,2020-05-09
+15,Michigan,Chippewa,2, ,2020-05-09
+16,Michigan,Clare,12,2,2020-05-09
+17,Michigan,Clinton,126,10,2020-05-09
+18,Michigan,Crawford,56,4,2020-05-09
+19,Michigan,Delta,15,2,2020-05-09
+20,Michigan,Detroit City,9648,1154,2020-05-09
+21,Michigan,Dickinson,5,2,2020-05-09
+22,Michigan,Eaton,152,6,2020-05-09
+23,Michigan,Emmet,21,2,2020-05-09
+24,Michigan,Genesee,1739,214,2020-05-09
+25,Michigan,Gladwin,16,1,2020-05-09
+26,Michigan,Gogebic,4,1,2020-05-09
+27,Michigan,Grand Traverse,20,5,2020-05-09
+28,Michigan,Gratiot,27,2,2020-05-09
+29,Michigan,Hillsdale,151,21,2020-05-09
+30,Michigan,Houghton,2, ,2020-05-09
+31,Michigan,Huron,34,1,2020-05-09
+32,Michigan,Ingham,563,16,2020-05-09
+33,Michigan,Ionia,103,2,2020-05-09
+34,Michigan,Iosco,54,8,2020-05-09
+35,Michigan,Isabella,61,7,2020-05-09
+36,Michigan,Jackson,381,25,2020-05-09
+37,Michigan,Kalamazoo,573,25,2020-05-09
+38,Michigan,Kalkaska,17,2,2020-05-09
+39,Michigan,Kent,2135,41,2020-05-09
+40,Michigan,Lake,2, ,2020-05-09
+41,Michigan,Lapeer,174,29,2020-05-09
+42,Michigan,Leelanau,9, ,2020-05-09
+43,Michigan,Lenawee,126,2,2020-05-09
+44,Michigan,Livingston,374,20,2020-05-09
+45,Michigan,Luce,1, ,2020-05-09
+46,Michigan,Mackinac,6, ,2020-05-09
+47,Michigan,Macomb,5963,682,2020-05-09
+48,Michigan,Manistee,11, ,2020-05-09
+49,Michigan,Marquette,51,9,2020-05-09
+50,Michigan,Mason,18, ,2020-05-09
+51,Michigan,Mecosta,16,2,2020-05-09
+52,Michigan,Menominee,6, ,2020-05-09
+53,Michigan,Midland,66,8,2020-05-09
+54,Michigan,Missaukee,16,1,2020-05-09
+55,Michigan,Monroe,383,16,2020-05-09
+56,Michigan,Montcalm,46,1,2020-05-09
+57,Michigan,Montmorency,5, ,2020-05-09
+58,Michigan,Muskegon,344,19,2020-05-09
+59,Michigan,Newaygo,34, ,2020-05-09
+60,Michigan,Oakland,7664,805,2020-05-09
+61,Michigan,Oceana,24,1,2020-05-09
+62,Michigan,Ogemaw,15, ,2020-05-09
+63,Michigan,Osceola,9, ,2020-05-09
+64,Michigan,Oscoda,5, ,2020-05-09
+65,Michigan,Otsego,95,9,2020-05-09
+66,Michigan,Ottawa,353,17,2020-05-09
+67,Michigan,Presque Isle,11, ,2020-05-09
+68,Michigan,Roscommon,20, ,2020-05-09
+69,Michigan,Saginaw,779,79,2020-05-09
+70,Michigan,Sanilac,38,5,2020-05-09
+71,Michigan,Schoolcraft,4, ,2020-05-09
+72,Michigan,Shiawassee,201,16,2020-05-09
+73,Michigan,St Clair,353,23,2020-05-09
+74,Michigan,St Joseph,51,1,2020-05-09
+75,Michigan,Tuscola,130,17,2020-05-09
+76,Michigan,Van Buren,81,2,2020-05-09
+77,Michigan,Washtenaw,1160,80,2020-05-09
+78,Michigan,Wayne,8176,874,2020-05-09
+79,Michigan,Wexford,10,2,2020-05-09
+80,Michigan,MDOC,2124,50,2020-05-09
+81,Michigan,FCI,109,3,2020-05-09
+82,Michigan,Unknown,71, ,2020-05-09
+83,Michigan,Out of State,7, ,2020-05-09
+84,Michigan,Totals,46326,4393,2020-05-09
